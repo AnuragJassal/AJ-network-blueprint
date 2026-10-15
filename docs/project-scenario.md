@@ -1,6 +1,4 @@
-# Secure Multi-Site Network Blueprint for a Small Clinic Group
-
-> Draft scenario document. Edit anything that doesn't match what you want to build.
+# Secure Multi-Site Network Blueprint for a business (clinic as an example)
 
 ## 1. The problem
 
@@ -17,7 +15,7 @@ systems, guest Wi-Fi, and phones share one network. This creates three risks:
 ## 2. The goal
 
 Design, build, and document a **reusable, secure network blueprint** for a
-small clinic group with two sites, which a real small business could adopt.
+small clinic group with two sites, which a real business could adopt.
 The deliverable is not only a working lab but a package someone else could
 follow: design, configs, security policy, onboarding procedure, and test
 results.
