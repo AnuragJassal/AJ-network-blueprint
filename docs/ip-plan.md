@@ -1,6 +1,6 @@
 # IP Addressing Plan
 
-Addressing plan for the Northgate Family Clinics two-site network.
+Addressing plan for the two-site network.
 Each site gets a private /16 block, subdivided with VLSM so every subnet
 is sized to its segment.
 
