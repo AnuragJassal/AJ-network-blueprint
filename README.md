@@ -10,7 +10,7 @@ small multi-location business could adopt.
 > been tested on physical equipment. Passwords and keys in the configs are
 > lab-only and have been redacted.
 
-![Network topology](diagrams/topology-phase1.png)
+![Network topology](diagrams/Topology-phase2.png)
 
 *(Replace the image path above with your latest diagram.)*
 
