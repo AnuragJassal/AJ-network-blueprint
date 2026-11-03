@@ -12,8 +12,6 @@ small multi-location business could adopt.
 
 ![Network topology](diagrams/Topology-phase2.png)
 
-*(Replace the image path above with your latest diagram.)*
-
 ## The problem
 
 Small clinics often run a flat, undocumented network where staff devices,
