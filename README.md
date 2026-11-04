@@ -1,7 +1,7 @@
 # Secure Multi-Site Clinic Network
 
 A two-site small-business network designed, secured, and tested in Cisco
-Packet Tracer, with a Windows Active Directory lab in progress. The scenario
+Packet Tracer. The scenario
 is a fictional clinic group, "Northgate Family Clinics", with a headquarters
 and a branch. The goal is a documented, reusable network blueprint that a
 small multi-location business could adopt.
